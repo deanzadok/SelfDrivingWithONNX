@@ -1,0 +1,7 @@
+pytorch
+torchvision
+opencv-python==4.1.0.25
+keyboard
+onnx
+onnxruntime
+msgpack-rpc-python
